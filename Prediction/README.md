@@ -3,6 +3,3 @@
 
 ## Getting Started 
 
-## Author
-
-**Ritvik Khanna**
